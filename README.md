@@ -6,7 +6,7 @@ By [v-braun - viktor-braun.de](https://viktor-braun.de).
 
 
 <p align="center">
-<img width="70%" src="resources;preview.gif" />
+<img width="70%" src="resources/preview.gif" />
 </p>
 
 

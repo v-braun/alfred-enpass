@@ -24,7 +24,7 @@ This is why you may need to enter your password "sometimes".
 
 ## Installation
 
-Download the workflow [here]("workflow-releases/Search Enpass.alfredworkflow")
+Download the workflow [here](workflow-releases/Search%20Enpass.alfredworkflow)
 
 On First run you need to speficy the **path** to the vault (folder not file).
 You can find it in Enpass under *Settings -> Advanced -> Data Location*.

@@ -53,6 +53,6 @@ This password will be stored in your Keychain, for that you may need to unlock y
 
 
 ## Thanks to
-[Alfred App](https://www.alfredapp.com/)
-[Enpass](https://www.enpass.io/)
-[icons8](https://icons8.com)
+💜 [Alfred App](https://www.alfredapp.com/)  
+💙 [Enpass](https://www.enpass.io/)  
+💚 [icons8](https://icons8.com)  

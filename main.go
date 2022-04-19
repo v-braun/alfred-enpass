@@ -13,11 +13,11 @@ import (
 	"time"
 
 	aw "github.com/deanishe/awgo"
+	"github.com/hazcod/enpass-cli/pkg/enpass"
 	"github.com/pquerna/otp/totp"
 	"github.com/samber/lo"
 	"github.com/sirupsen/logrus"
 	"github.com/v-braun/alfred-enpass/imgcache"
-	"github.com/v-braun/enpass-cli/pkg/enpass"
 
 	"github.com/zalando/go-keyring"
 )
